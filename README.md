@@ -50,4 +50,4 @@ A complexidade do algoritmo é:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/selection-sort.git
+   git clone https://github.com/enzokaua/algorithm-selection-search.git
